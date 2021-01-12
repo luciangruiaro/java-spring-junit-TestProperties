@@ -1,4 +1,4 @@
-package com.example.javafilepathhandler.service;
+package com.example.springJunitTestProp.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

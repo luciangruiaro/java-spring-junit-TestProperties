@@ -1,6 +1,6 @@
-package com.example.javafilepathhandler;
+package com.example.springJunitTestProp;
 
-import com.example.javafilepathhandler.service.PropertiesHandlerService;
+import com.example.springJunitTestProp.service.PropertiesHandlerService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

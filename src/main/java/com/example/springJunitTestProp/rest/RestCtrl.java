@@ -1,6 +1,6 @@
-package com.example.javafilepathhandler.rest;
+package com.example.springJunitTestProp.rest;
 
-import com.example.javafilepathhandler.service.PropertiesHandlerService;
+import com.example.springJunitTestProp.service.PropertiesHandlerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
